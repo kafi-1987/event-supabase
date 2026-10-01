@@ -1,0 +1,3 @@
+const SUPABASE_URL = "https://yeuugascwrwvwsfyzuvb.supabase.co";
+const SUPABASE_ANON_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InlldXVnYXNjd3J3dndzZnl6dXZiIiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTA4NTk1NTksImV4cCI6MjEwNjQzNTU1OX0.SZLkNkvjogMJFLay-q7jPz6VkZbaV6JCFqozpp2E0As";
+const GAS_URL = "";
